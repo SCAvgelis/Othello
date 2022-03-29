@@ -1,4 +1,4 @@
-#Avgelis Sotirios - Charalampos AM: 2580
+
 def create_board ():
     board = []
     for i in range(8):
